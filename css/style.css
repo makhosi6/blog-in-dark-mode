@@ -1,6 +1,6 @@
 .img {
   height: 60vh;
-  background-image: url(/img/what-we-offer-3.jpg);
+  background-image: url("./img/what-we-offer-3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #1690d6;
